@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hello, my name is Vitaly
+
+<h3 align="center">I'm a Data Scientist from Tel Aviv, Israel</h3>
+
+* I'm currently working in [BMC Software](https://www.linkedin.com/company/bmc-software/posts/?feedView=all)
+* You can reach to me on [LinkedIn](https://www.linkedin.com/in/vitaly-pankratov/)
 
 <!--
 **Stayermax/Stayermax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
